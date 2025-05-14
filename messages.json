@@ -10,5 +10,9 @@
   {
     "role": "user",
     "content": "hello"
+  },
+  {
+    "role": "ai_message",
+    "content": "Hello again ! It's nice to see you back. How can I help you today? Is there anything specific you' d like to work on in your web application, or do you have any questions about web development or React? I'm here to assist you with building your app, explaining concepts, or providing guidance on best practices."
   }
 ]
