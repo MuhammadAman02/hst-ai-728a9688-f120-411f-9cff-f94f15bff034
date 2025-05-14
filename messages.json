@@ -2,5 +2,9 @@
   {
     "role": "user",
     "content": "hello"
+  },
+  {
+    "role": "ai_message",
+    "content": "Hello! Welcome to your blank app project . How can I assist you today ? Woul d you like to start building your application , or do you have any specific questions about web development or React ?"
   }
 ]
